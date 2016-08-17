@@ -57,7 +57,7 @@ public class Menu {
                 quiz.startQuiz();
                 break;
             case 2:
-
+                quiz.showAnswers();
                 break;
 
             case 3:
